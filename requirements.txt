@@ -1,7 +1,9 @@
-streamlit
-Scikit-learn ==  1.4.2
+
 matplotlib == 3.9.2
 seaborn == 0.13.2
-pandas == 2.2.2
-numpy == 2.0.1
-plotly == 5.24.0
+streamlit==1.28.0
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+plotly==5.15.0
+pickle-mixin==1.0.2
